@@ -2,6 +2,7 @@
 
 ## Table of contents
 - [Challenges](#challenges)
+- [Resources](#resources)
 - [Schedules](#schedules)
 - [Score](#score)
 
@@ -13,6 +14,18 @@
 ### Challenges 2 : Gate passing challenge
 
 ![c2:gpc](./pictures/c2.png)
+
+## Resources
+
+- [STL folder](https://drive.google.com/drive/folders/1-Y4x6I2CYg6UywpXi8ReJrgSJQ3C5y_q?usp=drive_link)
+    
+    > Files for 3D printing
+
+- [Assembly Guide](https://drive.google.com/file/d/18R8OfuFmEhZX0d3GWcozmI7QvSWfDQi5/view?usp=drive_link)
+
+### Slide
+- [Day1 - Slide](https://drive.google.com/file/d/1BWFrK07BFN8VXa02S8ApaI_96yw-tyJA/view?usp=drive_link)
+- [Day2 - Slide](https://drive.google.com/file/d/1xAGYtG2EaBW8S_4ZaxSeSavnySFGr-On/view?usp=drive_link)
 
 ## Schedules
 ### 1-on-1 Challenge [Sat 16 AUG 2025]
