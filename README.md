@@ -9,9 +9,14 @@
 ## Challenges
 ### Challenges 1 : 1-on-1 challenge 
 
+> Robot need to flight with another team's robot, who get more goal will win.
+
 ![c1:1on1](./pictures/c1.png)
 
 ### Challenges 2 : Gate passing challenge
+
+> The robot need to pass the gate without collision. 
+>> (5 scores / gate and 10 extra scores when finish loop without collision / round)
 
 ![c2:gpc](./pictures/c2.png)
 
