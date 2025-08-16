@@ -68,16 +68,16 @@
 
 ## Score
 
-### Total
-
-| Team | Challenge 1 | Challenge 2 | Total Score |
-|---|---|---|---|
-| Team A | | | |
-| Team B | | | |
-
-### Challenge 1
+### Challenge 1 : 1-on-1 challenge
 
 | Team | Round 1 | Round 2 | Round 3 | 
 |---|---|---|---|
-| Team A | 5 🏅 | 4 🏅   | 5 🏅   |
+| Team A 🏅 | 5 🏅 | 4 🏅   | 5 🏅   |
 | Team B | 0    | 1     | 0     |
+
+### Challenge 2 : Gate Passing Challenge
+
+| Team | Round 1 | Round 2 | Round 3 | 
+|---|---|---|---|
+| Team A |  |  |  |
+| Team B |  |  |  |
