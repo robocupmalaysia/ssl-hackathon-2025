@@ -32,9 +32,9 @@
 
 | Time Slot | Team A Member | Team B Member |
 |---|---|---|
-| 15:35-15:40 | Member A1 (muhammad sukri bin baharudin) | Member B1 (zurin maisara binti rafizul) |
-| 15:45-15:50 | Member A2 (aqil zafri bin khairul amri) | Member B2 (nur farissha amira binti mohamed faizul) |
-| 15:55-16:00 | Member A3 (nazran aizat bin noranizam) | Member B1 (zurin maisara binti rafizul) |
+| 15:35-15:40 | Member A1 (Muhammad Sukri Bin Baharudin) | Member B1 (Zurin Maisara Binti Rafizul) |
+| 15:45-15:50 | Member A2 (Aqil Zafri Bin Khairul Amri) | Member B2 (Nur Farissha Amira Binti Mohamed Faizul) |
+| 15:55-16:00 | Member A3 (Nazran Aizat Bin Noranizam) | Member B1 (Zurin Maisara Binti Rafizul) |
 
 ### Gate Passing Challenge [Sun 17 AUG 2025]
 
