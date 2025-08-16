@@ -72,5 +72,5 @@
 
 | Team | Round 1 | Round 2 | Round 3 | 
 |---|---|---|---|
-| Team A | 5 🏅 | 4 🏅   | |
-| Team B | 0    | 1     | |
+| Team A | 5 🏅 | 4 🏅   | 5 🏅   |
+| Team B | 0    | 1     | 0     |
