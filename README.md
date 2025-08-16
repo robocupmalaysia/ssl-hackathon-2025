@@ -20,7 +20,9 @@
 
 ![c2:gpc](./pictures/c2.png)
 
-[Demo Video for Challenges 2 : Gate passing challenge](./videos/c2.mp4)
+<video width="640" height="360" controls>
+  <source src="./videos/c2.mp4" type="video/mp4">
+</video>
 
 ## Resources
 
