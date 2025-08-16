@@ -32,9 +32,9 @@
 
 | Time Slot | Team A Member | Team B Member |
 |---|---|---|
-| 16:00-16:05 | Member A1 | Member B1 |
-| 16:10-16:15 | Member A2 | Member B2 |
-| 16:20-16:25 | Member A3 | Member B3 |
+| 15:35-15:40 | Member A1 | Member B1 |
+| 15:45-15:50 | Member A2 | Member B2 |
+| 15:55-16:00 | Member A3 | Member B3 |
 
 ### Gate Passing Challenge [Sun 17 AUG 2025]
 
