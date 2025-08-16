@@ -47,8 +47,30 @@
 | 10:30 - 10:40 | Team A - Round 3 |
 | 10:45 - 10:55 | Team B - Round 3 |
 
+## Member
+### Team A
+
+- Muhammad Sukri Bin Baharudin
+- Aqil Zafri Bin Khairul Amri
+- Nazran Aizat Bin Noranizam
+
+### Team B
+
+- Zurin Maisara Binti Rafizul
+- Nur Farissha Amira Binti Mohamed Faizul
+
 ## Score
+
+### Total
+
 | Team | Challenge 1 | Challenge 2 | Total Score |
 |---|---|---|---|
 | Team A | | | |
 | Team B | | | |
+
+### Challenge 1
+
+| Team | Round 1 | Round 2 | Round 3 | 
+|---|---|---|---|
+| Team A | 5 🏅 | 4 🏅   | |
+| Team B | 0    | 1     | |
