@@ -1,1 +1,41 @@
-# ssl-hackathon-2025
+# RCMY Soccer SSL EDU Challenge Hackathon 2025
+
+## Table of contents
+- [Challenges](#challenges)
+- [Schedules](#schedules)
+- [Score](#score)
+
+## Challenges
+### Challenges 1 : 1-on-1 challenge 
+
+![c1:1on1](./pictures/c1.png)
+
+### Challenges 2 : Gate passing challenge
+
+![c2:gpc](./pictures/c2.png)
+
+## Schedules
+### 1-on-1 Challenge [Sat 16 AUG 2025]
+
+| Time Slot | Team A Member | Team B Member |
+|---|---|---|
+| 15:00-15:05 | Member A1 | Member B1 |
+| 15:10-15:15 | Member A2 | Member B2 |
+| 15:20-15:25 | Member A3 | Member B3 |
+
+### Gate Passing Challenge [Sun 17 AUG 2025]
+
+| Time Slot | Team |
+|---|---|
+| 09:30 - 09:40 | Team A - Round 1 |
+| 09:45 - 09:55 | Team B - Round 1 |
+| 10:00 - 10:10 | Team A - Round 2 |
+| 10:15 - 10:25 | Team B - Round 2 |
+| 10:30 - 10:40 | Team A - Round 3 |
+| 10:45 - 10:55 | Team B - Round 3 |
+
+## Score
+| Team | Challenge 1 | Challenge 2 | Total Score |
+|---|---|---|---|
+| Team A | | | |
+| Team B | | | |
