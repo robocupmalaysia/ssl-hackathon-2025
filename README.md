@@ -20,9 +20,7 @@
 
 ![c2:gpc](./pictures/c2.png)
 
-<video width="640" height="360" controls>
-  <source src="./videos/c2.mp4" type="video/mp4">
-</video>
+[DEMO Video](https://drive.google.com/file/d/1Gv00bJELkF_Lc3sMyPIg2PoESrcOzdB_/view?usp=drive_link)
 
 ## Resources
 
