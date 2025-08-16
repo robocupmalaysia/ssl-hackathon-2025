@@ -20,6 +20,8 @@
 
 ![c2:gpc](./pictures/c2.png)
 
+[Demo Video for Challenges 2 : Gate passing challenge](./videos/c2.mp4)
+
 ## Resources
 
 - [STL folder](https://drive.google.com/drive/folders/1-Y4x6I2CYg6UywpXi8ReJrgSJQ3C5y_q?usp=drive_link)
