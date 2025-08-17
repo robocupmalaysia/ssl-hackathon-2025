@@ -47,12 +47,12 @@
 
 | Time Slot | Team |
 |---|---|
-| 09:45 - 09:55 | Team A - Round 1 |
-| 10:00 - 10:10 | Team B - Round 1 |
-| 10:15 - 10:25 | Team A - Round 2 |
-| 10:30 - 10:40 | Team B - Round 2 |
-| 10:45 - 10:55 | Team A - Round 3 |
-| 11:00 - 11:10 | Team B - Round 3 |
+| 09:55 - 10:05 | Team A - Round 1 |
+| 10:10 - 10:20 | Team B - Round 1 |
+| 10:25 - 10:35 | Team A - Round 2 |
+| 10:40 - 10:50 | Team B - Round 2 |
+| 10:55 - 11:05 | Team A - Round 3 |
+| 11:10 - 11:20 | Team B - Round 3 |
 
 ## Member
 ### Team A
