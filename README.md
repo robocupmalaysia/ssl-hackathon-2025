@@ -6,6 +6,14 @@
 - [Schedules](#schedules)
 - [Score](#score)
 
+![group-photo-1](./pictures/group-photo-1.jpeg)
+
+![group-photo-2](./pictures/group-photo-2.jpeg)
+
+![group-photo-3](./pictures/group-photo-3.jpeg)
+
+![group-photo-4](./pictures/group-photo-4.jpeg)
+
 ## Challenges
 ### Challenges 1 : 1-on-1 challenge 
 
