@@ -6,6 +6,8 @@
 - [Schedules](#schedules)
 - [Score](#score)
 
+![robot-photo](./pictures/robot.jpeg)
+
 ![group-photo-1](./pictures/group-photo-1.jpeg)
 
 ![group-photo-2](./pictures/group-photo-2.jpeg)
