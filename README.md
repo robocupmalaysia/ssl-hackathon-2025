@@ -69,6 +69,7 @@
 ## Score
 
 ### Challenge 1 : 1-on-1 challenge
+> 1 score for each goal
 
 | Team | Round 1 | Round 2 | Round 3 | 
 |---|---|---|---|
@@ -76,8 +77,9 @@
 | Team B | 0    | 1     | 0     |
 
 ### Challenge 2 : Gate Passing Challenge
+> 5 scores / gate and 10 extra scores when finish loop
 
 | Team | Round 1 | Round 2 | Round 3 | 
 |---|---|---|---|
-| Team A |  |  |  |
-| Team B |  |  |  |
+| Team A | 160 🏅 |  |  |
+| Team B | 155 |  |  |
