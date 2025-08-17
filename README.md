@@ -79,7 +79,7 @@
 ### Challenge 2 : Gate Passing Challenge
 > 5 scores / gate and 10 extra scores when finish loop
 
-| Team | Round 1 | Round 2 | Round 3 | 
-|---|---|---|---|
-| Team A | 160 🏅 |  |  |
-| Team B | 155 |  |  |
+| Team | Round 1 | Round 2 | Round 3 | Best |
+|---|---|---|---|---|
+| Team A | 160 🏅 | 235 🏅 |  |  |
+| Team B | 155 | 140 |  |  |
